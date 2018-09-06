@@ -4,9 +4,9 @@ Animating 240 flight paths in Google Maps
 ![alt text](https://raw.githubusercontent.com/krugertech/GMap-Multiple-Animated-Flights/master/Showcase.png)
 
 # Setup
-• Retrieve your Google Maps API key and update the index.html on line 5. 
-• Upload files to your webserver. 
-• Request index.html to start the show.
+Retrieve your Google Maps API key and update the index.html on line 5. 
+Upload files to your webserver. 
+Request index.html to start the show.
 
 # TODO
 1. Update licensing
