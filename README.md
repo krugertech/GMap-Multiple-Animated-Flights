@@ -5,8 +5,11 @@ Animating 240 flight paths in Google Maps
 
 # Setup
 Retrieve your Google Maps API key and update the index.html on line 5. 
+
 Upload files to your webserver. 
+
 Request index.html to start the show.
+
 
 # TODO
 1. Update licensing
