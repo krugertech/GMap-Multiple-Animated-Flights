@@ -8,4 +8,4 @@ Retrieve your Google Maps API key and update the index.html on line 5.
 1. Update licensing
 2. Include authors
 3. Provide better description
-4. Stop keeping your late night todos in git readme's.
+4. Stop keeping late night todos in git readme's.
