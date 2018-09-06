@@ -12,4 +12,3 @@ Request index.html to start the show.
 1. Update licensing
 2. Reference authors
 3. Update readme
-
