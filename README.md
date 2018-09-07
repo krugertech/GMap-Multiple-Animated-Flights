@@ -1,6 +1,8 @@
 # GMap-Multiple-Animated-Flights
 Animating 240 flight paths in Google Maps
 
+Demo http://gmapdemo.krugertech.co.za/
+
 ![alt text](https://raw.githubusercontent.com/krugertech/GMap-Multiple-Animated-Flights/master/Showcase.png)
 
 # Setup
